@@ -1,0 +1,21 @@
+body{
+    @media screen (max-width:1440px) {
+        min-width: 50px;
+    }
+    }
+
+
+.modellar{
+    text-align: center;
+}
+.modellar a{
+    display: flex;
+    text-decoration: none;
+}
+.s{
+    display: flex;
+    justify-content: space-around;
+    display: flex;
+    color: black;
+    gap: 100px;
+}

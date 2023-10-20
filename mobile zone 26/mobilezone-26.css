@@ -1,0 +1,27 @@
+body{
+    @media screen (max-width:1440px) {
+        min-width: 50px;
+    }
+    @media screen (max-height:auto) {
+        min-heiht: auto;
+    }
+    }
+body{
+
+    background-image: url(./img/moble\ \(1\)\ \(6\).jpg);
+    background-repeat: no-repeat;
+    
+    
+}
+.model{
+    text-align: center;
+}
+.modellar{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+}
+.modellar a{
+    text-decoration: none;
+    color: black;
+}
